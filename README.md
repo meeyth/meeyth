@@ -1,3 +1,5 @@
+<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/desktop-animation2.gif" alt="Programming" align="middle">
+
 <h1 align="center">Hi 👋🏻, I'm Anurup Bhowmick</h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
