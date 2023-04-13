@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurup Bhowmick</h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Programming">
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Programming" align="middle">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>
 
