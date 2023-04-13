@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Apps and Websites(MERN)**
 
-- 💬 Ask me about **React, React Native, Python, Golang,Js**
+- 💬 Ask me about **React, React Native, Python, Golang, Js**
 
 - 📫 How to reach me **anurupbhowmick007@gmail.com**
 
