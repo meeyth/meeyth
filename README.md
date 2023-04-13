@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anurup-bhowmick-95a12221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurup bhowmick" height="30" width="40" /></a>
-  <a href="https://instagram.com/de.b_u_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="de.b_u_g" height="30" width="40" /></a>
-  <a href="https://instagram.com/de.b_u_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="de.b_u_g" height="30" width="40" /></a>
+<a href="https://twitter.com/de_bug8800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_bug8800" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anurup bhowmick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurup bhowmick" height="30" width="40" /></a>
+<a href="https://instagram.com/de.b_u_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="de.b_u_g" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anurupbhowmick01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anurupbhowmick01" height="30" width="40" /></a>
 </p>
 
