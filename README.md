@@ -1,4 +1,4 @@
-[![MasterHead](./view.gif)](/)
+[![MasterHead](./view.gif)](https://github.com/meeyth/meeyth)
 <h1 align="center">Hi 👋🏻, I'm Anurup Bhowmick</h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
