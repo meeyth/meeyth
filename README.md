@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>
 
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fartlogic-res.cloudinary.com%2Fw_650%2Cc_limit%2Cf_auto%2Cfl_lossy%2Cq_auto%2Fartlogicstorage%2Fhofa%2Fimages%2Fview%2F747fde3ea26baa6a44a1b298ffe46789g.gif&tbnid=3xxgUSADZ6H57M&vet=12ahUKEwi-_tOe8eCBAxVNS2wGHYY4CvgQMyhmegUIARCpAw..i&imgrefurl=https%3A%2F%2Fthehouseoffineart.com%2Fexhibitions%2F147%2Fworks%2Fartworks4827%2F&docid=dBDN5nEpQrWLaM&w=600&h=600&q=aesthetic%20room%20gif&hl=en&ved=2ahUKEwi-_tOe8eCBAxVNS2wGHYY4CvgQMyhmegUIARCpAw](https://www.google.com/search?q=aesthetic%20room%20gif&tbm=isch&bih=931&biw=1920&hl=en&sa=X&ved=0CB4QtI8BKAFqFwoTCJCNoonx4IEDFQAAAAAdAAAAABBX#imgrc=FBc4IvpDY120KM)">
+<img align="right" alt="Coding" width="400" src="./room.gif">
 
 
 - 🔭 I’m currently working on **React Native apps with aws**
