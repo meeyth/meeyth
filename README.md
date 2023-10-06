@@ -3,8 +3,6 @@
 
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Programming" align="middle">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>
-
 
 - 🔭 I’m currently working on **React Native apps with aws**
 
