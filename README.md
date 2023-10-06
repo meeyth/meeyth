@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://pa1.narvii.com/7403/b803ed71372b3d528aa56d766a1daf490f32c96er1-800-600_hq.gif">
+<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif">
 
 
 - 🔭 I’m currently working on **React Native apps with aws**
