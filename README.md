@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" src="./room.gif">
 <h1 align="center">Hi 👋🏻, I'm Anurup Bhowmick</h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
