@@ -1,4 +1,4 @@
-[![MasterHead]()](https://github.com/meeyth)
+<!--[![MasterHead]()](https://github.com/meeyth)-->
 <h1 align="center">Hi 👋🏻, I'm Anurup Bhowmick</h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
