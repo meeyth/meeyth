@@ -1,5 +1,5 @@
 <!--[![MasterHead]()](https://github.com/meeyth)-->
-<h1 align="center">Hi 👋🏻, I'm Anurup Bhowmick</h1>
+<h1 align="center">Hi, 👋🏻 I'm Anurup Bhowmick</h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>
