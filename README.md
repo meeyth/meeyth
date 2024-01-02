@@ -65,8 +65,10 @@
 <hr/>
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
 <p align="center">
-   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=meeyth&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" alt="readme stats" />
-     <br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=meeyth&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" alt="readme stats" />
    <img src="https://streak-stats.demolab.com?user=meeyth&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
