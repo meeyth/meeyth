@@ -1,5 +1,5 @@
 <!--[![MasterHead]()](https://github.com/meeyth)-->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=meeyth)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=meeyth.visitor-badge)
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=6777F7&center=true&random=true&width=500&lines=Hi%2C+There!+%F0%9F%8F%84%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+;I'm+Meeyth!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
