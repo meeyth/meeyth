@@ -5,14 +5,6 @@
 </h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>-->
-
-<br/>
-<div align="center">
- <img align="right" alt="Coding" width="400" src="./room.gif">
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -29,19 +21,15 @@
 
  </div>
 
-<!--- 🔭 I’m currently working on **React Native apps with aws**
 
-- 🌱 I’m currently learning **AWS, React Native, App development**
 
-- 👯 I’m looking to collaborate on **Apps and Websites(MERN)**
+<h1 align="center" >
+ <img align="right" alt="Coding" width="400" src="./room.gif">
+</h1>
 
-- 💬 Ask me about **React, React Native, Python, Golang, Js**
+<br/>
 
-- 📫 How to reach me **anurupbhowmick2003@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)-->
-
-<hr/>
 <h2 align="center">🌍 Let's Connect :) 🌎</h2>
 <br>
 
