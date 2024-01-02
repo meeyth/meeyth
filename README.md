@@ -1,11 +1,11 @@
 <!--[![MasterHead]()](https://github.com/meeyth)-->
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=meeyth.meeyth&left_color=%235365F7&right_color=%23FFFDD0&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=meeyth.meeyth&left_color=%235365F7&right_color=%23B2BEB5&left_text=Hello%20Visitors)
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=6777F7&center=true&random=true&width=500&lines=Hi%2C+There!+%F0%9F%8F%84%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+;I'm+Meeyth!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>-->
 
 <img align="right" alt="Coding" width="400" src="./room2.webp">
 
