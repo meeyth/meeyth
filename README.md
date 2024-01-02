@@ -14,7 +14,7 @@
 
    🌱 I’m currently learning **Docker, Reanimated, ML**
    
-   📄 Know about my experiences **[knowMe]**(https://resume.io/r/I7kb0i12h)
+   📄 Know about my experiences [knowMe](https://resume.io/r/I7kb0i12h)
    
    🔭 I’m currently working on **React Native Apps with Custom Backend**
    
