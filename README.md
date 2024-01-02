@@ -7,10 +7,10 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>-->
 
-
-  <!--<div align="center">
- <img align="right" alt="Coding" width="400" src="./room2.webp">
-</div>-->
+<br/>
+<div align="center">
+ <img align="right" alt="Coding" width="400" src="./room.gif">
+</div>
 
 <br/>
 
