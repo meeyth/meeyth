@@ -6,11 +6,11 @@
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>-->
-<br>
 
-<div align="center">
-   <img align="right" alt="Coding" width="400" src="./room2.webp">
-</div>
+
+  <!--<div align="center">
+ <img align="right" alt="Coding" width="400" src="./room2.webp">
+</div>-->
 
 <br/>
 
@@ -41,7 +41,8 @@
 
 - 📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)-->
 
-<div align="center"> 
+<div align="center">
+   <h3 align="center">Connect With me</h3>
   <a href="mailto:anurupbhowmick2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
