@@ -41,9 +41,11 @@
 
 - 📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)-->
 
-<br/>
-<h3 align="center">🌍Let's Connect :)🌎</h3>
-<hr>
+<hr/>
+<h2 align="center">🌍Let's Connect :)🌎</h2>
+<br>
+
+
 <div align="center">
    
   <a href="mailto:anurupbhowmick2003@gmail.com">
