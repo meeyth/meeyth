@@ -1,6 +1,6 @@
 <!--[![MasterHead]()](https://github.com/meeyth)-->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=3000&pause=1000&color=F7A742&center=true&random=true&width=500&lines=Hi%2C+%F0%9F%8F%84%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Meeyth" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=3000&pause=1000&color=6777F7&center=true&random=true&width=500&lines=Hi%2C+There!+%F0%9F%8F%84%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+;I'm+Meeyth!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
