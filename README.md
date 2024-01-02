@@ -41,8 +41,11 @@
 
 - 📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)-->
 
+
+<h3 align="center">Connect With me</h3>
+
 <div align="center">
-   <h3 align="center">Connect With me</h3>
+   
   <a href="mailto:anurupbhowmick2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
