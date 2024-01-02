@@ -40,10 +40,10 @@
 - 📫 How to reach me **anurupbhowmick2003@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)-->
-
-
-<h3 align="center">Connect With me</h3>
-
+<br/>
+<hr/>
+<h3 align="center">🌍Let's Connect :)🌎</h3>
+<hr>
 <div align="center">
    
   <a href="mailto:anurupbhowmick2003@gmail.com">
