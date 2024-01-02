@@ -23,12 +23,12 @@
 
 
 
-<h1 align="center" >
+<h1 align="center">
  <img align="right" alt="Coding" width="400" src="./room.gif">
 </h1>
 
 <br/>
-
+<br/>
 
 <h2 align="center">🌍 Let's Connect :) 🌎</h2>
 <br>
