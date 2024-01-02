@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<h2 align="center">🌍 Let's Connect :) 🌎</h2>
+<h2 align="center">🌍 Let's Connect ^_____^ 🌎</h2>
 <br>
 
 
@@ -65,7 +65,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐉 My Contributions 🐉</h2>
+  <h2>👨🏻‍💻 My Contributions 👨🏻‍💻</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/meeyth/meeyth/output/github-contribution-grid-snake.svg" />
   
