@@ -1,5 +1,5 @@
 <!--[![MasterHead]()](https://github.com/meeyth)-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=3000&pause=1000&color=F7A742&center=true&random=true&width=500&lines=Hi%2C%F0%9F%8F%84%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Meeyth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=3000&pause=1000&color=F7A742&center=true&random=true&width=100%&lines=Hi%2C%F0%9F%8F%84%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Meeyth)](https://git.io/typing-svg)
 <h3 align="center">A passionate learner of full stack development from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>
