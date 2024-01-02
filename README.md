@@ -7,10 +7,24 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeyth&label=Profile%20views&color=0e75b6&style=flat" alt="meeyth" /> </p>-->
 
-<img align="right" alt="Coding" width="400" src="./room2.webp">
+<!--<img align="right" alt="Coding" width="400" src="./room2.webp">-->
+<br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **React Native Apps with Custom Backend**
+ 
+ 🌱 I’m currently learning **Docker, Reanimated, ML**
 
-- 🔭 I’m currently working on **React Native apps with aws**
+  💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/meeyth/meeyth/issues)**
+
+  📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)
+
+  ⚡ Fun fact **Why Python is called Python: The programming language Python is named after the comedian Monty Python**
+
+ </div>
+
+<!--- 🔭 I’m currently working on **React Native apps with aws**
 
 - 🌱 I’m currently learning **AWS, React Native, App development**
 
@@ -20,7 +34,7 @@
 
 - 📫 How to reach me **anurupbhowmick2003@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)
+- 📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
