@@ -69,8 +69,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,sass,go,cpp,php" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="25" height="25"/><br>
-  <img src="https://skillicons.dev/icons?i=redux,vscode,visualstudio,postman,prisma,heroku,ai,ps,pr,bots,vite,idea" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=redux,vscode,visualstudio,postman,prisma,heroku,ai,ps,pr,vite,idea" /><br>
 </div>
 
 <br/>
