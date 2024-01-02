@@ -11,14 +11,12 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **React Native Apps with Custom Backend**
- 
- 🌱 I’m currently learning **Docker, Reanimated, ML**
 
-  💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/meeyth/meeyth/issues)**
-
-  📄 Know about my experiences [https://resume.io/r/I7kb0i12h](https://resume.io/r/I7kb0i12h)
+   🌱 I’m currently learning **Docker, Reanimated, ML**
+   📄 Know about my experiences **[knowMe]**(https://resume.io/r/I7kb0i12h)
+   🔭 I’m currently working on **React Native Apps with Custom Backend**
+    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/meeyth/meeyth/issues)**
+    
 
   ⚡ Fun fact **Why Python is called Python: The programming language Python is named after the comedian Monty Python**
 
