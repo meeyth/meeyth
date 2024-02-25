@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">A passionate learner of full stack development from India</h3>
+<h3 align="center">A passionate learner of Machine Learning & App development from India</h3>
 
 
 <div align="center">
