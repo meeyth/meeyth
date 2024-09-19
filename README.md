@@ -13,7 +13,7 @@
 
    🌱 I’m currently learning **Docker, Reanimated, ML**
    
-   📄 Know about my experiences [knowMe](https://drive.google.com/file/d/18QVjolbfpli-uiqSDtzB4pi3YdKmEOUY/view?usp=sharing)
+   📄 Know about my experiences [knowMe](https://drive.google.com/drive/u/3/folders/1v1YETn-30Gg4buSy4IVeU5qs0-fy5A6L)
    
    🔭 I’m currently working on **React Native Apps with Custom Backend**
    
