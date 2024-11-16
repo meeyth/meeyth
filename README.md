@@ -4,7 +4,7 @@
 <a href="https://github.com/meeyth/meeyth"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=6777F7&center=true&random=true&width=500&lines=Hey%2C+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Anurup!+%F0%9F%8F%84%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 
-[![An image of @meeyth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meeyth)](https://holopin.io/@meeyth)
+[//]: # [![An image of @meeyth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meeyth)](https://holopin.io/@meeyth)
 
 <h3 align="center">A passionate learner of Machine Learning & App development from India</h3>
 
