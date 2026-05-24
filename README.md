@@ -8,6 +8,3 @@
 </p>
 
 <img align="center" width="100%" src="gh-space-shooter.webp" />
-
-
-<img align="center" width="100%" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=Gabrielle&quoteType=quote-for-the-day&fontColor=green" />
