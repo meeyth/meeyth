@@ -14,7 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0  # Fetch full history instead of just 2
+
+      - name: Fetch latest changes
+        run: git fetch origin main
 
       - uses: czl9707/gh-space-shooter@v2
         with:
