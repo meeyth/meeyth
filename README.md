@@ -8,3 +8,5 @@
 </p>
 
 <img align="center" width="100%" src="gh-space-shooter.webp" />
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default_repocard&animation=default&layout=default&font=Gabrielle&quoteType=random&fontColor=green)
