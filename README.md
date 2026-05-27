@@ -24,6 +24,7 @@
 <td>
   <img src="https://iconic-api.onrender.com/dark/python" width="38px"/>
   <img src="https://iconic-api.onrender.com/dark/java" width="38px"/>
+  <img src="https://iconic-api.onrender.com/dark/js" width="38px"/>
   <img src="https://iconic-api.onrender.com/dark/go" width="38px"/>
 </td>
 </tr>
