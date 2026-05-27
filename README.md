@@ -74,6 +74,7 @@
 <td>
   <img src="https://iconic-api.onrender.com/dark/git" width="38px"/>
   <img src="https://iconic-api.onrender.com/dark/github" width="38px"/>
+  <img src="https://iconic-api.onrender.com/dark/github-actions" width="38px"/>
   <img src="https://iconic-api.onrender.com/dark/docker" width="38px"/>
   <img src="https://iconic-api.onrender.com/dark/postman" width="38px"/>
   <img src="https://iconic-api.onrender.com/dark/render" width="38px"/>
