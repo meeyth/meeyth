@@ -1,4 +1,3 @@
-
 <img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I+am+Anurup+🍀" />
 
 <p align="center">
@@ -67,6 +66,13 @@
   <img src="https://iconic-api.onrender.com/dark/numpy" width="38px"/>
   <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="38px"/>
   <img src="https://iconic-api.onrender.com/dark/matplotlib" width="38px"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>Cloud & Research</strong></td>
+<td>
+  <img src="https://iconic-api.onrender.com/dark/google-colab" width="38px"/>
 </td>
 </tr>
 
