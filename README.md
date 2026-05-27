@@ -48,6 +48,7 @@
   <img src="https://iconic-api.onrender.com/dark/express" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/flask" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/websocket" width="64px" />
 </div>
 
 <br/>
@@ -68,7 +69,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/pytorch" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/numpy" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/sklearn" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/matplotlib" width="64px" />
 </div>
 
