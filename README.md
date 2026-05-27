@@ -22,7 +22,8 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/java" width="64px" /> 
+  <img src="https://iconic-api.onrender.com/dark/go" width="64px" />
 </div>
 
 <br/>
@@ -85,6 +86,7 @@
   <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/postman" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/render" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
 </div>
 
 <br/>
