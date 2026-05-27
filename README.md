@@ -8,3 +8,5 @@
 </p>
 
 <img align="center" width="100%" src="gh-space-shooter.webp" />
+
+![meeyth's GitHub Stats](https://readme-stats-github.pages.dev/api?username=meeyth&theme=shadow)
