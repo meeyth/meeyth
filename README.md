@@ -54,11 +54,12 @@
 <br/>
 
 <!-- Databases -->
-<h3>Databases</h3>
+<h3>Databases</h3> 
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/redis" width="64px" />
 </div>
 
 <br/>
