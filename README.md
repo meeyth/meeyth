@@ -14,81 +14,48 @@
      TECH STACK
 ========================= -->
 
-<h2 align="left">Tech Stack</h2>
 
-<table width="1500px">
+<h2 align="center">Tech Universe</h2>
 
+<table align="center">
 <tr>
-<td width="220px"><strong>Languages</strong></td>
-<td>
-  <img src="https://iconic-api.onrender.com/dark/python" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/java" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/js" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/go" width="38px"/>
-</td>
-</tr>
 
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-  <img src="https://iconic-api.onrender.com/dark/react" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/html" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/css" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/redux" width="38px"/>
-</td>
-</tr>
+<td valign="top" width="33%">
 
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/express" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/flask" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/websocket" width="38px"/>
-</td>
-</tr>
+### Languages
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/python" width="42"/>
+  <img src="https://iconic-api.onrender.com/dark/java" width="42"/>
+  <img src="https://iconic-api.onrender.com/dark/go" width="42"/>
+</p>
 
-<tr>
-<td><strong>Databases</strong></td>
-<td>
-  <img src="https://iconic-api.onrender.com/dark/mongodb" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/redis" width="38px"/>
 </td>
-</tr>
 
-<tr>
-<td><strong>AI / ML</strong></td>
-<td>
-  <img src="https://iconic-api.onrender.com/dark/pytorch" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/numpy" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/matplotlib" width="38px"/>
+<td valign="top" width="33%">
+
+### Frontend
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/react" width="42"/>
+  <img src="https://iconic-api.onrender.com/dark/html" width="42"/>
+  <img src="https://iconic-api.onrender.com/dark/css" width="42"/>
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="42"/>
+</p>
+
 </td>
-</tr>
 
-<tr>
-<td><strong>Cloud & Research</strong></td>
-<td>
-  <img src="https://iconic-api.onrender.com/dark/google-colab" width="38px"/>
+<td valign="top" width="33%">
+
+### Backend
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="42"/>
+  <img src="https://iconic-api.onrender.com/dark/express" width="42"/>
+  <img src="https://iconic-api.onrender.com/dark/fastapi" width="42"/>
+</p>
+
 </td>
-</tr>
 
-<tr>
-<td><strong>DevOps & Tools</strong></td>
-<td>
-  <img src="https://iconic-api.onrender.com/dark/git" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/github" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/github-actions" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/docker" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/postman" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/render" width="38px"/>
-  <img src="https://iconic-api.onrender.com/dark/aws" width="38px"/>
-</td>
 </tr>
-
 </table>
+
 
 <img src="https://streak-stats.demolab.com?user=meeyth&theme=blueberry-duo&hide_border=true&border_radius=50&card_width=700&card_height=170" alt="GitHub Streak" align="center"/>
