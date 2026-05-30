@@ -15,131 +15,83 @@
 ========================= -->
 
 
-<h2 align="center">Tech Stack</h2>
+
+<h2 align="left">Tech Stack</h2>
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>Languages</h3>
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/python" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/java" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/go" width="42"/>
-</p>
-
-<sub>The core languages I use to build scalable applications.</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Frontend</h3>
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/react" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/html" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/css" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/redux" width="42"/>
-</p>
-
-<sub>Crafting responsive and interactive interfaces.</sub>
-
-</td>
-
+  <td width="220"><strong>Languages</strong></td>
+  <td>
+    <img src="https://iconic-api.onrender.com/dark/python" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/java" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/js" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/go" width="42"/>
+  </td>
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>Backend</h3>
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/express" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/flask" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/websocket" width="42"/>
-</p>
-
-<sub>Building APIs, authentication systems and realtime services.</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>AI / ML</h3>
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/pytorch" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/numpy" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/matplotlib" width="42"/>
-</p>
-
-<sub>Training and experimenting with intelligent systems.</sub>
-
-</td>
-
+  <td><strong>Frontend</strong></td>
+  <td>
+    <img src="https://iconic-api.onrender.com/dark/react" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/html" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/css" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/tailwind" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/redux" width="42"/>
+  </td>
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>Databases</h3>
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/mongodb" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/redis" width="42"/>
-</p>
-
-<sub>Efficient storage and caching solutions.</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>DevOps & Tools</h3>
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/git" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/github" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/docker" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/postman" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/render" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/aws" width="42"/>
-</p>
-
-<sub>Deployment, automation and development workflow.</sub>
-
-</td>
-
+  <td><strong>Backend</strong></td>
+  <td>
+    <img src="https://iconic-api.onrender.com/dark/nodejs" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/express" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/fastapi" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/flask" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/websocket" width="42"/>
+  </td>
 </tr>
 
 <tr>
+  <td><strong>Databases</strong></td>
+  <td>
+    <img src="https://iconic-api.onrender.com/dark/mongodb" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/mysql" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/redis" width="42"/>
+  </td>
+</tr>
 
-<td colspan="2" valign="top">
+<tr>
+  <td><strong>AI / ML</strong></td>
+  <td>
+    <img src="https://iconic-api.onrender.com/dark/pytorch" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/numpy" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/matplotlib" width="42"/>
+  </td>
+</tr>
 
-<h3>Design & Editing</h3>
+<tr>
+  <td><strong>Cloud & Research</strong></td>
+  <td>
+    <img src="https://iconic-api.onrender.com/dark/google-colab" width="42"/>
+  </td>
+</tr>
 
-<p>
-  <img src="https://iconic-api.onrender.com/dark/canva" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/capcut" width="42"/>
-</p>
-
-<sub>Creating visuals, edits and developer content.</sub>
-
-</td>
-
+<tr>
+  <td><strong>DevOps & Tools</strong></td>
+  <td>
+    <img src="https://iconic-api.onrender.com/dark/git" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/github" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/github-actions" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/docker" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/postman" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/render" width="42"/>
+    <img src="https://iconic-api.onrender.com/dark/aws" width="42"/>
+  </td>
 </tr>
 
 </table>
+
 
 
 
