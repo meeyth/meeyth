@@ -15,47 +15,16 @@
 ========================= -->
 
 
-<h2 align="center">Tech Universe</h2>
 
-<table align="center">
-<tr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:AA00FF&height=70&section=header&text=Frontend&fontSize=30&fontColor=ffffff"/>
 
-<td valign="top" width="33%">
-
-### Languages
-<p align="center">
-  <img src="https://iconic-api.onrender.com/dark/python" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/java" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/go" width="42"/>
-</p>
-
-</td>
-
-<td valign="top" width="33%">
-
-### Frontend
 <p align="center">
   <img src="https://iconic-api.onrender.com/dark/react" width="42"/>
   <img src="https://iconic-api.onrender.com/dark/html" width="42"/>
   <img src="https://iconic-api.onrender.com/dark/css" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="42"/>
 </p>
 
-</td>
 
-<td valign="top" width="33%">
-
-### Backend
-<p align="center">
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/express" width="42"/>
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="42"/>
-</p>
-
-</td>
-
-</tr>
-</table>
 
 
 <img src="https://streak-stats.demolab.com?user=meeyth&theme=blueberry-duo&hide_border=true&border_radius=50&card_width=700&card_height=170" alt="GitHub Streak" align="center"/>
