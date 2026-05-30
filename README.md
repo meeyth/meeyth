@@ -68,10 +68,6 @@
 
 <br><br>
 
-### Design & Editing
-<img src="https://iconic-api.onrender.com/dark/canva" width="40"/>
-<img src="https://iconic-api.onrender.com/dark/capcut" width="40"/>
-
 </div>
 
 
