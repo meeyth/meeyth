@@ -16,7 +16,7 @@
 
 <h2 align="left">Tech Stack</h2>
 
-<table width="1000px">
+<table width="1500px">
 
 <tr>
 <td width="220px"><strong>Languages</strong></td>
