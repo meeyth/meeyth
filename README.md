@@ -91,4 +91,4 @@
 
 </table>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=meeyth&theme=blueberry-duo&hide_border=true&border_radius=50&card_width=700&card_height=170" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=meeyth&theme=blueberry-duo&hide_border=true&border_radius=50&card_width=700&card_height=170" alt="GitHub Streak" align="center"/>
