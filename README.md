@@ -50,6 +50,8 @@
 <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=009688" height="22" />
 <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=3B4252" height="22" />
 <img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF&labelColor=FF6A00" height="22" />
+<img src="https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF&labelColor=FF6600" height="22" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=D63AFF" height="22" />
 </p>
 
 ---
@@ -96,6 +98,8 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=2088FF" height="22" />
 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=2496ED" height="22" />
 <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=FF6C37" height="22" />
+<img src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm&logoColor=FFFFFF&labelColor=CB3837" height="22" />
+<img src="https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=FFFFFF&labelColor=76D04B" height="22" />
 </p>
 
 ---
