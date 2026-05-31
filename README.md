@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=00ED64&labelColor=0B2E27" height="22" />
 <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=4479A1" height="22" />
 <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=FFFFFF&labelColor=DC382D" height="22" />
+<img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=FFFFFF&labelColor=052E44" height="22" />
 
 ---
 
