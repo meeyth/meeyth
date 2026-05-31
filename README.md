@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=06B6D4" height="22" />
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" height="22" />
 <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=0f0f0f&labelColor=087EA4" height="22" />
+<img src="https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo&logoColor=FFFFFF&labelColor=1C1E24" height="22" />
 <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=FFFFFF&labelColor=764ABC" height="22" />
 
 ---
@@ -69,6 +70,7 @@
 <img src="https://img.shields.io/badge/Google_Colab-black?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF&labelColor=F9AB00" height="22" />
 <img src="https://custom-icon-badges.demolab.com/badge/AWS-black.svg?logo=aws&logoColor=white&labelColor=FF9900" height="22" />
 <img src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=FFFFFF&labelColor=7B61FF" height="22" />
+<img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=003B36" height="22" />
 
 ---
 
