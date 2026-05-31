@@ -67,7 +67,7 @@
 
 ### AI / ML
 
-<p>
+<p> 
 <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=EE4C2C" height="22" />
 <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=FFFFFF&labelColor=4D77CF" height="22" />
 <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&
