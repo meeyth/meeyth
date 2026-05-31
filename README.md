@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I+am+Anurup+🍀" />
+<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hey%2C+Developers+🍀" />
 
 <p align="center">
   <a href="https://x.com/aru_codes">X</a> •
