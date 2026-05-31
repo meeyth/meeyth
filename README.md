@@ -15,82 +15,65 @@
 ========================= -->
 
 
+## Tech Stack
 
-<h2 align="left">Tech Stack</h2>
+### Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 
-<table>
-<tr>
-  <td width="220"><strong>Languages</strong></td>
-  <td>
-    <img src="https://iconic-api.onrender.com/dark/python" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/java" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/js" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/go" width="42"/>
-  </td>
-</tr>
+---
 
-<tr>
-  <td><strong>Frontend</strong></td>
-  <td>
-    <img src="https://iconic-api.onrender.com/dark/react" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/html" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/css" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/tailwind" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/redux" width="42"/>
-  </td>
-</tr>
+### Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)
 
-<tr>
-  <td><strong>Backend</strong></td>
-  <td>
-    <img src="https://iconic-api.onrender.com/dark/nodejs" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/express" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/fastapi" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/flask" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/websocket" width="42"/>
-  </td>
-</tr>
+---
 
-<tr>
-  <td><strong>Databases</strong></td>
-  <td>
-    <img src="https://iconic-api.onrender.com/dark/mongodb" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/mysql" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/redis" width="42"/>
-  </td>
-</tr>
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat&logo=socketdotio)
 
-<tr>
-  <td><strong>AI / ML</strong></td>
-  <td>
-    <img src="https://iconic-api.onrender.com/dark/pytorch" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/numpy" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/matplotlib" width="42"/>
-  </td>
-</tr>
+---
 
-<tr>
-  <td><strong>Cloud & Research</strong></td>
-  <td>
-    <img src="https://iconic-api.onrender.com/dark/google-colab" width="42"/>
-  </td>
-</tr>
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 
-<tr>
-  <td><strong>DevOps & Tools</strong></td>
-  <td>
-    <img src="https://iconic-api.onrender.com/dark/git" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/github" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/github-actions" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/docker" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/postman" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/render" width="42"/>
-    <img src="https://iconic-api.onrender.com/dark/aws" width="42"/>
-  </td>
-</tr>
+---
 
-</table>
+### AI / ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=plotly)
+
+---
+
+### Cloud & Research
+![Google Colab](https://img.shields.io/badge/-GoogleColab-05122A?style=flat&logo=googlecolab)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-05122A.svg?logo=aws&)
+![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
+
+---
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHubActions-05122A?style=flat&logo=githubactions)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+
+---
 
 
 
