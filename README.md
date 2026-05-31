@@ -19,10 +19,12 @@
 
 ### Languages
 
+<p>
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB" height="22" />
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=ED8B00" height="22" />
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E" height="22" />
 <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=FFFFFF&labelColor=00ADD8" height="22" />
+</p>
 
 ---
 
