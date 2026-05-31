@@ -70,6 +70,8 @@
 <p>
 <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=EE4C2C" height="22" />
 <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=FFFFFF&labelColor=4D77CF" height="22" />
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&
+logo=pandas&logoColor=FFFFFF&labelColor=150458" height="22" />
 <img src="https://img.shields.io/badge/Scikit--Learn-black?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF&labelColor=F7931E" height="22" />
 <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly&logoColor=FFFFFF&labelColor=11557C" height="22" />
 </p>
