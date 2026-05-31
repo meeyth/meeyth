@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=It all started from 'Hello World'+🍀" />
+<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=It+all+started+from+'Hello+World'+🍀" />
 
 <p align="center">
   <a href="https://x.com/aru_codes">X</a> •
