@@ -28,10 +28,11 @@
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" height="22" />
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26" height="22" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=FFFFFF&labelColor=264DE4" height="22" />
 <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=06B6D4" height="22" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" height="22" />
+<img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=0f0f0f&labelColor=087EA4" height="22" />
 <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=FFFFFF&labelColor=764ABC" height="22" />
 
 ---
@@ -80,6 +81,8 @@
 <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=FF6C37" height="22" />
 
 ---
+
+
 
 
 <img src="https://streak-stats.demolab.com?user=meeyth&theme=blueberry-duo&hide_border=true&border_radius=50&card_width=700&card_height=170" alt="GitHub Streak" align="center"/>
